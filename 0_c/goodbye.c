@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("Goodbye, cruel world!\n");
-	return(0);
+  printf("Farewell, you ugly toad\n");
+  return(0);
 }
